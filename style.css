@@ -61,3 +61,8 @@ footer {
 .text-right {
 	text-align: right;
 }
+
+#map {
+	height: 300px;
+	width: 100%;
+}
